@@ -1,0 +1,11 @@
+export { default as Header } from './Header/Header';
+export { default as Loader } from './Loader/Loader';
+export { default as StartScreen } from './StartScreen/StartScreen';
+export { default as Button } from './Button/Button';
+export { default as Question } from './Question/Question';
+export { default as AnswersList } from './AnswersList/AnswersList';
+export { default as AnswerItem } from './AnswerItem/AnswerItem';
+export { default as Progress } from './Progress/Progress';
+export { default as QuestionFooter } from './QuestionFooter/QuestionFooter';
+export { default as Timer } from './Timer/Timer';
+export { default as FinishScreen } from './FinishScreen/FinishScreen';

@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: calc(100vw - 30px);
+  height: calc(100vh - 30px);
+  background-color: #242424;
+  color: #FFFF;
+  font-family: sans-serif;
+}
+
+.app {
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 30px;
+}

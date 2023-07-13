@@ -1,0 +1,16 @@
+.startScreen {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.startScreen h2 {
+    font-size: 3.2rem;
+}
+
+.startScreen p {
+    font-size: 1.5rem;
+}
