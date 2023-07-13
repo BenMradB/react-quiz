@@ -43,6 +43,3 @@ Feel free to explore, make changes, and contribute to the project!
 ## License
 
 The "react-quiz" repository is licensed under the [MIT License](REACT_QUIZ_LICENSE).
-
-
-
